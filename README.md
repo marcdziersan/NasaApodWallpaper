@@ -1,7 +1,7 @@
 # NASA APOD – Java Wallpaper Downloader
 
 Java-Port des PowerShell-Skripts  
-[`Nasa_API_powershel_Picture_of_the_day`](https://github.com/marcdziersan/Nasa_API_powershel_Picture_of_the_day)
+[`Nasa_API_powershel_Picture_of_the_day`](https://github.com/CyberGreyRat/Nasa_API_powershel_Picture_of_the_day)
 
 Statt PowerShell-Skript jetzt eine **javac-kompilierbare Schulungsanwendung**:
 
